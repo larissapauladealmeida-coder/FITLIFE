@@ -1,2 +1,2 @@
-# Catálogo-FITLIFE
-Catálogo online de roupas fitness. - FITLIFE
+# CATÁLOGO - FITLIFE
+Catálogo online de roupas fitness.
